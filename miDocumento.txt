@@ -1,1 +1,5 @@
-hola mundo
+¡¡hola mundo!!
+------------
+Pruebas con el checkout
+------------
+Soy Sergio y estoy en la rama colaboración.
